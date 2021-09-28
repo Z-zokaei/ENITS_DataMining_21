@@ -1,4 +1,4 @@
-# ENITS DataMining 21
+# ENITS Data Mining 21
 Materials for the ENITS Data Mining Class in WS21
 
 ## NOTES
