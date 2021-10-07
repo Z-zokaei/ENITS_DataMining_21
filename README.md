@@ -22,3 +22,14 @@ Materials for the ENITS Data Mining Class in WS21
 **NOTE: upload your solution in Moodle by noon, Thursday the week after the lab seesion**
 
 * [Assignment 1.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_1/Assignment-01.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-1)
+
+## Week 2
+
+### Lecture
+
+
+### Lab
+-tba-
+
+### Assignement
+-tba-
