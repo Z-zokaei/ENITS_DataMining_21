@@ -26,7 +26,8 @@ Materials for the ENITS Data Mining Class in WS21
 ## Week 2
 
 ### Lecture
-
+* [Statistics and Wrangling](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lecture_02_Basic_Statistics_Data_Wrangling.ipynb
+* [GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lecture_02_GroupBy.ipynb
 
 ### Lab
 -tba-
