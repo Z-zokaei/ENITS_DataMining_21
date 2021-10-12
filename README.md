@@ -30,7 +30,13 @@ Materials for the ENITS Data Mining Class in WS21
 * [GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lecture_02_GroupBy.ipynb)
 
 ### Lab
--tba-
+* [Pandas Intro](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_01_Intro.ipynb)
+* [Pandas Data Frames](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_02_DataFrame.ipynb)
+* [Pandas IO](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_03_IO.ipynb)
+* [Pandas Missing Data](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_04_MissingData.ipynb)
+* [Pandas GroupBy](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_05_Group_by.ipynb)
+* [Pandas Join](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_06_MergeandJoin.ipynb)
+* [Pandas Reshape](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_07_reshape.ipynb) 
 
 ### Assignement
 -tba-
