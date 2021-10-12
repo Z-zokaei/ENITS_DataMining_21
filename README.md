@@ -38,5 +38,6 @@ Materials for the ENITS Data Mining Class in WS21
 * [Pandas Join](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_06_MergeandJoin.ipynb)
 * [Pandas Reshape](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Lab_pandas_07_reshape.ipynb) 
 
-### Assignement
--tba-
+### Assignements
+* [Assignment 1.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Assignment-01.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
+* * [Assignment 1.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Assignment-01.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
