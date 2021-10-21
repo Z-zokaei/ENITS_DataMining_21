@@ -50,7 +50,7 @@ Materials for the ENITS Data Mining Class in WS21
 
 ### Lab
 * [NumPy Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_01_Numpy.ipynb)
-* [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_02_Matplotlib-Intro.ipynb) 
+<!-- * [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_02_Matplotlib-Intro.ipynb) -->
 
 
 ### Assignements
