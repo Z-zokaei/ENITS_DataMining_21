@@ -56,3 +56,9 @@ Materials for the ENITS Data Mining Class in WS21
 ### Assignements
 * [Assignment 3.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
 <!-- * [Assignment 3.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2) -->
+
+## Week 4
+
+### Lecture
+* [Scikit Learn](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Lecture_Scikit_Learn.ipynb)
+
