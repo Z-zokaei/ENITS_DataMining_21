@@ -41,3 +41,18 @@ Materials for the ENITS Data Mining Class in WS21
 ### Assignements
 * [Assignment 2.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Assignment_1.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
 * [Assignment 2.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_2/Assignment_2.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
+
+## Week 3
+
+### Lecture
+* [Tensor Algebra](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lecture_03_02_Tensor_Algebra.ipynb)
+
+
+### Lab
+* [NumPy Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_01_Numpy.ipynb)
+<!-- * [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_02_Matplotlib-Intro.ipynb) -->
+
+
+### Assignements
+* [Assignment 3.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Assignment_3.1_Numpy.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
+<!-- * [Assignment 3.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Assignment_3.2_Matplotlib.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2) -->
