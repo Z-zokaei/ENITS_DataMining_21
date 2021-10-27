@@ -62,3 +62,15 @@ Materials for the ENITS Data Mining Class in WS21
 ### Lecture
 * [Scikit Learn](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Lecture_Scikit_Learn.ipynb)
 
+### Lab
+* [NumPy Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_01_Numpy.ipynb)
+<!-- * [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/Lab_02_Matplotlib-Intro.ipynb) -->
+
+
+### Self-Study
+Please work through the MatplotLib notebook.
+* [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_3/SelfStudy_Matplotlib-Intro.ipynb)
+
+### Assignements
+* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2) 
+* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
