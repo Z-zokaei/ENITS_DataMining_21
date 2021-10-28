@@ -73,3 +73,8 @@ Please work through the MatplotLib notebook.
 ### Assignements
 * [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2) 
 * [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
+
+## Week 5
+
+### Optional Material
+* [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_5/05_Statistics_Part_II.ipynb)
