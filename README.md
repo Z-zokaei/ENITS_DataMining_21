@@ -71,7 +71,7 @@ Please work through the MatplotLib notebook.
 
 ### Assignements
 * [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Solution.ipynb) 
-* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb)
+* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Solution.ipynb)
 
 ## Week 5
 
