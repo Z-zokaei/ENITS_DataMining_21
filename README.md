@@ -83,6 +83,6 @@ Please work through the MatplotLib notebook.
 
 ## Week 6
 
-## Lab
+### Lab
 
-## Assingment
+### Assingment
