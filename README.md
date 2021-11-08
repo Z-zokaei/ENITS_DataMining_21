@@ -80,3 +80,9 @@ Please work through the MatplotLib notebook.
 
 ### Lab + Assignment
 * [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)-> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-5)
+
+## Week 6
+
+## Lab
+
+## Assingment
