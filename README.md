@@ -62,7 +62,7 @@ Materials for the ENITS Data Mining Class in WS21
 * [Scikit Learn](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Lecture_Scikit_Learn.ipynb)
 
 ### Lab
-* [Clustering](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Lab_Clustering.ipynb)
+* [Clustering](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Lab_Clustering.ipynb)-> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Clustering_solution.ipynb)  
 
 
 ### Self-Study
@@ -70,8 +70,8 @@ Please work through the MatplotLib notebook.
 * [MatplotLib Tutorial](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/SelfStudy_Matplotlib-Intro.ipynb)
 
 ### Assignements
-* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2) 
-* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-2)
+* [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Matplotlib.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.1_Solution.ipynb) 
+* [Assignment 4.2](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Clustering.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_4/Assignment_4.2_Solution.ipynb)
 
 ## Week 5
 
@@ -80,3 +80,9 @@ Please work through the MatplotLib notebook.
 
 ### Lab + Assignment
 * [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)-> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-5)
+
+## Week 6
+
+### Lab
+
+### Assingment
