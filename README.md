@@ -82,7 +82,11 @@ Please work through the MatplotLib notebook.
 * [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)-> [upload solution](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5542#section-5)
 
 ## Week 6
-
+### Lecture
+* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/RF_demo.ipynb)
+ 
 ### Lab
+* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/Lab_FraudDetection_Part_II.ipynb)
 
 ### Assingment
+* [Assignment 6.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/Assignment_intrusion_detection.ipynb)
